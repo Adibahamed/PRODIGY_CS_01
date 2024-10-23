@@ -1,4 +1,3 @@
-# PRODIGY_CS_01
 
 This Python program implements the Caesar Cipher, a simple substitution cipher where each letter in the message is shifted by a certain number of positions. The program allows users to either encrypt or decrypt messages with a custom shift value.
 
